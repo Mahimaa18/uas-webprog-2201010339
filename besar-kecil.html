@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Nilai Terbesar dan Terkecil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Nilai Terbesar dan Terkecil</h1>
+  </header>
+  <main>
+    <div class="container">
+      <h2>Input Nilai</h2>
+      <div class="input-container">
+        <input type="number" id="inputNilai" placeholder="Masukkan nilai">
+        <button id="btnTambah">Tambah</button>
+      </div>
+      <div class="result-container">
+        <h3>Nilai Terbesar: <span id="nilaiTerbesar"></span></h3>
+        <h3>Nilai Terkecil: <span id="nilaiTerkecil"></span></h3>
+      </div>
+      <div class="sort-container">
+        <button id="btnSortAsc">Urutkan Nilai Terkecil</button>
+        <button id="btnSortDesc">Urutkan Nilai Terbesar</button>
+      </div>
+      <table id="tableNilai">
+        <thead>
+          <tr>
+            <th>No.</th>
+            <th>Nilai</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+      </table>
+      <div class="button-flex">
+        <button class="btnHitung" id="btnReset">Reset</button>
+      </div>
+    </div>
+  </main>
+  
+  <footer>
+    <p class="footer-text">&copy; 2023. Dibuat oleh Mahima Virgiana</a>.</p>
+  </footer>
+
+  <script src="besar-kecil.js"></script>
+</body>
+
+</html>
