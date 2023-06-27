@@ -1,0 +1,8 @@
+#Penjelasan Mengenai Ide Project:
+- Ide Projek
+	Membuat Aplikasi Sederhana untuk menghitung Nilai Terbesar dan Terkecil
+- Deskripsi Projek
+Dengan aplikasi ini, pengguna dapat dengan mudah mengelola dan menganalisis data. Pengguna dapat memasukkan nilai-nilai siswa dalam jumlah yang diinginkan, dan aplikasi akan secara otomatis menampilkan nilai terbesar dan terkecil dari kumpulan data tersebut. Selain itu, pengguna juga dapat melihat data yang diurutkan secara ascending (dari nilai terendah ke tertinggi) atau secara descending (dari nilai tertinggi ke terendah), sehingga memudahkan pengguna untuk melihat data dengan berbagai perspektif.
+         
+
+      
